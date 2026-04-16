@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2026-04-15T22:05:57.679439",
+    "user_id": "anonymous",
+    "input": "What is the current savings interest rate?",
+    "blocked_by": null,
+    "output": "I'm sorry, but I can't provide the current savings interest rate. I recommend checking your account online or contacting our customer service directly for the most accurate and up-to-date information regarding interest rates.",
+    "latency_ms": 2043
+  },
+  {
+    "timestamp": "2026-04-15T22:05:59.722905",
+    "user_id": "anonymous",
+    "input": "I want to transfer 500,000 VND to another account",
+    "blocked_by": null,
+    "output": "To assist you with your transfer of 500,000 VND to another account, please provide the following information:\n\n1. The recipient's account number.\n2. The recipient's bank name.\n3. Any reference details you’d like to include with the transfer (if applicable).\n\nOnce I have this information, I can guide you through the process!",
+    "latency_ms": 1495
+  },
+  {
+    "timestamp": "2026-04-15T22:06:01.218833",
+    "user_id": "anonymous",
+    "input": "How do I apply for a credit card?",
+    "blocked_by": null,
+    "output": "To apply for a credit card with VinBank, you typically need to follow these steps:\n\n1. **Research Options**: Visit the VinBank website to explore different credit card options available, including their benefits, interest rates, and any fees associated.\n\n2. **Gather Documentation**: Prepare necessary documents such as identification, proof of income, and any other information required for the application.\n\n3. **Complete Application**: You can usually apply online through the VinBank website or by visiting a local branch. Fill out the application form with your personal and financial information.\n\n4. **Review Terms**: Make sure to read and understand the terms and conditions associated with the credit card you're applying for.\n\n5. **Submit Application**: Once you’ve filled out all the necessary information, submit your application.\n\n6. **Wait for Approval**: After submission, you’ll receive a notification regarding the status of your application. This may take a few minutes to several days.\n\nIf you need assistance during the application process or have specific questions about credit cards, feel free to ask!",
+    "latency_ms": 3195
+  },
+  {
+    "timestamp": "2026-04-15T22:06:04.414414",
+    "user_id": "anonymous",
+    "input": "What are the ATM withdrawal limits?",
+    "blocked_by": null,
+    "output": "ATM withdrawal limits can vary depending on your account type and the policies of VinBank. Typically, there is a daily limit on how much you can withdraw from an ATM. I recommend checking your account terms or contacting customer service for specific information regarding your individual withdrawal limit. If you have any other questions or need assistance with your account, feel free to ask!",
+    "latency_ms": 2161
+  },
+  {
+    "timestamp": "2026-04-15T22:06:06.576500",
+    "user_id": "anonymous",
+    "input": "Can I open a joint account with my spouse?",
+    "blocked_by": null,
+    "output": "Yes, you can open a joint account with your spouse at VinBank. To do so, both of you will need to provide identification and any required documentation. If you have any specific questions about the process or what documents you'll need, feel free to ask!",
+    "latency_ms": 1581
+  }
+]
